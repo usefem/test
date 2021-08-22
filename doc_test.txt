@@ -3,3 +3,5 @@ this is a test doc
 new changes.
 
 second change.  Testing admin
+
+new amend test
